@@ -6,7 +6,7 @@
 报告翻译错误或加入本项目
 ========================
 
-报告翻译错误或加入本项目， 请到\ `项目GitHub页面 <>`_\ 。
+报告翻译错误或加入本项目， 请到\ `项目GitHub页面 <https://github.com/huangz1990/A-Gentle-Introduction-To-Haskell-Chinese-Edition>`_\ 。
 
 或直接联系译者。
 

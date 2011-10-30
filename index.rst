@@ -6,11 +6,12 @@
 《砖头Haskell教程》
 ===================
 
-本文是Haskell官方教程——\ `《A Gentle Introduction To Haskell, version 98》 <http://www.haskell.org/tutorial/index.html>`_\ 的简体中文翻译版。
+本文是Haskell官方教程——\ `《A Gentle Introduction to Haskell, version 98》 <http://www.haskell.org/tutorial/index.html>`_\ 的简体中文翻译版。
 
 目录：
 
 .. toctree::
    :maxdepth: 2
 
-   about
+   chp1
+   readme

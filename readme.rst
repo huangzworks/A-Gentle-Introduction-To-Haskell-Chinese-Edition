@@ -3,6 +3,8 @@
 关于本文档
 ***********
 
+本文是Haskell官方教程：\ `《A Gentle Introduction to Haskell, version 98》 <http://www.haskell.org/tutorial/index.html>`_\ 的简体中文翻译版。
+
 报告翻译错误或加入本项目
 ========================
 
